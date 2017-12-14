@@ -12,3 +12,5 @@ if f == "clock":
     print ("fan")
 else:
     print ("TV")
+
+f=hello
